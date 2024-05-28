@@ -1,3 +1,3 @@
 # my-project
-Author-Jyoti Singh(kumari)
+Author-Jyoti Singh
 this is my first repo

@@ -1,2 +1,2 @@
 # my-project
-Author-Jyoti Singh
+Author-Jyoti Singh(kumari)
